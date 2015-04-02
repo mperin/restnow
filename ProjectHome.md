@@ -1,0 +1,1 @@
+Maven plugin which generates static REST web service clients based on the JAX-RS annotated web services which are available in your project.
